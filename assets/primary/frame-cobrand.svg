@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Marauder co-brand frame, partner mark centred">
+  <path d="M6 38 L6 6 L38 6 L38 15 L15 15 L15 38 Z" fill="#14161B"/>
+  <path d="M94 38 L94 6 L62 6 L62 15 L85 15 L85 38 Z" fill="#14161B"/>
+  <path d="M6 62 L6 94 L38 94 L38 85 L15 85 L15 62 Z" fill="#14161B"/>
+  <path d="M94 62 L94 94 L62 94 L62 85 L85 85 L85 62 Z" fill="#14161B"/>
+  <!-- Partner mark sits in this 42x42 area. Do not exceed it. -->
+  <rect x="29" y="29" width="42" height="42" fill="none" stroke="#D8D8D1" stroke-width="0.5" stroke-dasharray="2 2"/>
+</svg>
