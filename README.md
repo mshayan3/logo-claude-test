@@ -1,9 +1,9 @@
-# Marauder — brand identity
+# The Marauders — brand identity
 
-Working repository for the Marauder esports advisory identity.
+Working repository for The Marauders esports advisory identity.
 
 - **[BRAND.md](BRAND.md)** — positioning, naming rationale, colour, type, usage rules.
-- **`assets/primary/`** — the recommended direction as production SVG.
-- **`assets/concepts/`** — the three concept marks.
+- **`assets/concepts/`** — all six concept marks. Round two is 04-06.
+- **`assets/primary/`** — the round-one frame direction, including the co-brand mechanic.
 
 Concept stage. Name pending trademark clearance.
