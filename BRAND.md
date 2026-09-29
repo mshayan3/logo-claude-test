@@ -51,7 +51,21 @@ fiction and esports. Clear it before anything is printed.
 
 ## Directions
 
-### Round two — live
+### Round three — the word itself
+
+*Marauder*, from French *maraud*, a rogue; *marauder*, to roam in search of
+plunder. Irregulars. The semantics are specific and they line up with the game
+almost exactly: a marauder does not hold a line, does not come through the
+front, and leaves with something.
+
+| # | Name | The word | The game | File |
+|---|------|----------|----------|------|
+| 07 | The Breach | Plunder. A mass with a piece cut out and the piece already clear of the wall. | A site broken; something taken off the map. | `assets/concepts/07-breach.svg` |
+| 08 | Off the Line | Irregulars will not stand in the rank. Four squares square on the baseline, the fifth turned off-axis and gone. | The lurker who roams solo off the team. | `assets/concepts/08-off-the-line.svg` |
+| 09 | The Back Door | Nobody raids the front. | A site held on three sides, the entry arriving through the angle nobody is watching. | `assets/concepts/09-back-door.svg` |
+
+### Round two — the playing legacy
+
 
 | # | Name | The owner reads | The player reads | File |
 |---|------|-----------------|------------------|------|
@@ -84,6 +98,47 @@ client. See `assets/primary/frame-cobrand.svg`.
 - **06 Entry** — most robust at small size (five solid squares survive
   anything). Risk: the offset square can read as a mistake rather than a move
   if the offset is ever softened. It must stay decisive.
+
+---
+
+## The heritage crest
+
+The legacy roster mark was a Punisher-style skull.
+
+**It cannot be carried across as-is.** The Punisher skull is a registered Marvel
+trademark and Marvel has enforced it, including against small commercial users.
+A roster logo is one risk profile; a firm that invoices clients, signs
+sponsorship deals and puts a mark on contracts and merchandise is another
+entirely. Separately, that specific skull has acquired strong political
+associations over the last decade — not a legal problem, but a meaning the
+brand would be carrying into rooms with investors and sponsors without having
+chosen it.
+
+**The solve is to draw our own.** `assets/crest/crest.svg` is built on the same
+100-unit grid as every other mark in this system: square eye sockets, a compact
+cranium, a straight four-tooth jaw, a nose. The short square teeth and the nose
+are deliberate departures — the elongated fang jaw and noseless flat cranium are
+what make the Marvel silhouette recognisable, and this one avoids both. It owes
+that design nothing.
+
+Still worth a clearance check before it goes on anything sold.
+
+### Two tiers
+
+Keep both marks. Give them different jobs.
+
+| Tier | Mark | Leads on |
+|------|------|----------|
+| One | Primary (whichever of 04–09 wins) | Deck and one-pager, contracts, invoices, proposals, sponsor and investor material, website, favicon, email signature — anything a client signs. |
+| Two | Heritage crest | Discord and X avatar, apparel, player-facing content, stream overlays and thumbnails — anything a player sees first. |
+
+Together: the origin slide, once. The about page, once. Nowhere else. Two marks
+competing for the same surface is how a system stops meaning anything.
+
+The crest is **monochrome** — a crest is one ink. Signal belongs to the primary
+mark. The one exception is the `crest-one-taken` variant, where a single tooth
+is removed and displaced in Signal; that is the word drawn into the legacy form,
+and it is an option, not the default.
 
 ---
 
@@ -144,7 +199,9 @@ players. Two families, no more.
 ## Next
 
 1. Clear the name. Blocking.
-2. Pick a direction from round two.
-3. Choose the accent: Signal or the cool alternate.
-4. Then: construction grid, full lockup set, and applications — avatar, deck
+2. Retire the old Punisher-derived skull from all live surfaces. Blocking.
+3. Pick a primary direction from rounds two and three.
+4. Confirm the two-tier system, or tell me the crest should lead outright.
+5. Choose the accent: Signal or the cool alternate.
+6. Then: construction grid, full lockup set, and applications — avatar, deck
    template, one-pager, email signature, jersey patch.
