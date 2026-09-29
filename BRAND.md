@@ -123,6 +123,50 @@ that design nothing.
 
 Still worth a clearance check before it goes on anything sold.
 
+
+### What the legacy mark actually held
+
+Seeing the original settled which parts are equity and which are exposure.
+
+**Marvel's, structurally — cannot carry across:**
+
+- The long teeth dropping well below the jaw, uneven, longest at the centre.
+  This is *the* Punisher signature; nothing else identifies the mark as
+  strongly. Keep these and nothing else you change matters.
+- The domed, egg-shaped cranium and its taper.
+- Slanted wedge sockets mirrored into an angry brow, with sharp inner points.
+- The cheek wings flanking the teeth.
+
+**Ours, worth keeping:**
+
+- **The sliced wordmark** — condensed, heavy, cuts carved through the strokes.
+  Not Marvel's, genuinely distinctive, and the strongest asset in the old mark.
+- "THE" tucked small above the M.
+- The stacked composition, wordmark over mark.
+- One ink, full contrast, no gradients. The old mark was already disciplined.
+
+### The redraw — `assets/crest/crest-b.svg`
+
+The first attempt (`crest.svg`) was safe but swung too far: it dropped the
+attitude along with the liability. `crest-b.svg` is the one to work from.
+
+Three decisions carry it away from the Punisher while keeping the menace:
+
+1. **Faceted cranium, not domed.** An octagonal skull with chamfered shoulders
+   tapering into a straight jaw. Hard-edged and geometric, and it sits on the
+   same 100-unit grid as every other mark here.
+2. **Parallel sockets, not mirrored.** Both eye slots slant the *same*
+   direction. Mirrored slanted eyes are the generic angry-skull move and the
+   Punisher's specifically; parallel slots make the face read as glancing off
+   to one side — the off-angle, the flank. This is the invention, and it is
+   ownable.
+3. **Five short teeth, contained in the jaw.** Even, countable, nothing
+   hanging below the silhouette. Five for the roster. The teeth stop being the
+   signature, which is the whole point.
+
+The wordmark's stencil cut still needs drawing properly as custom letterforms —
+what is shown is Archivo with a slice, standing in for the real thing.
+
 ### Two tiers
 
 Keep both marks. Give them different jobs.
@@ -130,7 +174,7 @@ Keep both marks. Give them different jobs.
 | Tier | Mark | Leads on |
 |------|------|----------|
 | One | Primary (whichever of 04–09 wins) | Deck and one-pager, contracts, invoices, proposals, sponsor and investor material, website, favicon, email signature — anything a client signs. |
-| Two | Heritage crest | Discord and X avatar, apparel, player-facing content, stream overlays and thumbnails — anything a player sees first. |
+| Two | Heritage crest (`crest-b.svg`) | Discord and X avatar, apparel, player-facing content, stream overlays and thumbnails — anything a player sees first. |
 
 Together: the origin slide, once. The about page, once. Nowhere else. Two marks
 competing for the same surface is how a system stops meaning anything.
