@@ -1,5 +1,16 @@
 # The Marauders — identity system (working draft)
 
+> **Current direction: `assets/mark/marauders.svg`.**
+> The client reviewed rounds one to three and rejected all of them. The brief is
+> not "design a mark for an advisory" — it is **modernise the logo they already
+> have**. Everything below concepts 01–11 is superseded and kept only so the
+> reasoning is on the record. See `assets/mark/README.md` for the live work.
+>
+> The strategic call in the next section — *look like a firm, not a roster* —
+> was mine, made on the first exchange, and it was wrong. They are Marauders who
+> advise, not advisors who used to play. That ordering changes everything
+> downstream.
+
 Status: **concept stage, round two.** Six directions explored, three live.
 
 ---
