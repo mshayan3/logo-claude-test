@@ -1,44 +1,57 @@
 # The Marauders
 
-A marque: a bounded badge with a fluted core, cut by a chevron. Automotive-
-emblem language — a heavy outline ring, then a carved mass filling the aperture.
+The mark is locked. This repo holds it in every sanctioned colourway.
 
-Not a letterform. The interior is built the way the reference is: vertical
-flutes separated by thin channels, clipped by the aperture rather than floating
-inside it, with one diagonal cut across the whole thing.
+`assets/mark-*.svg` are the mark alone on transparency — drop them on any ground.
+`assets/tile-*.svg` are the mark pre-composed on its ground, for places that
+need a flat square (avatars, favicons, app icons).
 
-- `assets/marque-arch.svg` — primary. Domed top, straight flanks, chamfered base.
-- `assets/marque-circle.svg` — alternate container, same core.
-- `*-reversed.svg` — knockout for dark grounds.
+## Colourways
 
-## Palette
+### Core
 
-| | |
-|---|---|
-| Ink | `#0B0B0B` |
-| Bone | `#EBE7E1` |
-| Dark ground | `#17171A` |
+| Name | Mark | Ground | Use |
+|------|------|--------|-----|
+| **Ink on Bone** | `#0B0B0B` | `#EBE7E1` | Primary. Documents, decks, contracts, anything printed. |
+| **Bone on Ink** | `#EBE7E1` | `#17171A` | Reversed. Avatars, merch, stream, dark UI. |
+| **Tonal** | `#2B2B33` | `#17171A` | Watermark, deboss, blind emboss, large background use. |
 
-Monochrome by design. No accent.
+### Oxblood — recommended accent
+
+| Name | Mark | Ground |
+|------|------|--------|
+| Oxblood on Bone | `#7E1C28` | `#EBE7E1` |
+| Bone on Oxblood | `#EBE7E1` | `#7E1C28` |
+| Oxblood on Ink | `#A8283A` | `#17171A` |
+
+Deep, heraldic, closer to dried blood than to a team colour. It carries the
+martial edge the name asks for without landing anywhere near the hot reds every
+other org already owns. Lightened to `#A8283A` on ink, where the deep value
+would otherwise disappear.
+
+### Alternates
+
+| Name | Mark | Ground | Reads as |
+|------|------|--------|----------|
+| Brass on Ink | `#B4893C` | `#17171A` | Medal, trophy, badge on a uniform. Pedigree. |
+| Gunmetal on Bone | `#4E555E` | `#EBE7E1` | Industrial, cool, understated. |
+| Signal on Ink | `#E2572E` | `#17171A` | Heat. Loudest option here. |
+
+## Rules
+
+- One colourway per surface. The mark is never two colours at once.
+- Never place the mark on a mid-tone. It needs either Bone or Ink beneath it —
+  the channels are what make it read, and they close up against a middling value.
+- Never add a stroke, shadow, bevel or gradient. The channels do that work.
+- Never re-space the channels to fit a layout. Scale the whole mark.
 
 ## Type
 
 **Jost** 500, all caps, tracked at 0.3em for the name and 0.44em for the
-descriptor, split by a hairline rule. Marque typography: wide, quiet, unhurried.
+descriptor, split by a hairline rule.
 
-## Construction
+## Note
 
-Drawn on a 200-unit grid. Ring 15 units, then 11 units of air, then the core.
-
-The core is the aperture shape inset by 11 and cut by five channels 6 units
-wide: four vertical, splitting it into five flutes with a wider keystone flute
-at centre, and one chevron band descending 32 units to a point on the axis.
-
-Because the flutes are clipped by the aperture rather than drawn to fit it, the
-mark reads as carved out of the badge instead of placed inside it. That is the
-whole difference.
-
-## Open
-
-- Container: arch or circle.
-- Trademark clearance on the name.
+The vector here was traced from the supplied artwork. If the source file differs
+in proportion, replace the path in `assets/mark-ink.svg` and regenerate — every
+other file is the same geometry with a different fill.
