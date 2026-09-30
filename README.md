@@ -50,8 +50,20 @@ would otherwise disappear.
 **Jost** 500, all caps, tracked at 0.3em for the name and 0.44em for the
 descriptor, split by a hairline rule.
 
-## Note
+## Construction
 
-The vector here was traced from the supplied artwork. If the source file differs
-in proportion, replace the path in `assets/mark-ink.svg` and regenerate — every
-other file is the same geometry with a different fill.
+Traced from the supplied artwork onto a 200 x 262 grid.
+
+The two diagonals descend **inward** — high at the outer edges, plunging toward
+the centre, where they meet the chevron. Diagonal and chevron read as one
+continuous stroke. Getting this direction backwards inverts the whole mark: the
+upper wedges taper the wrong way and the form stops reading.
+
+Channels are 11 units measured perpendicular, held constant across the verticals,
+the diagonals and the chevron, so the slopes carry different vertical offsets.
+
+The side panels run out to points at the bottom. Only the centre column meets the
+base, so the flat bottom edge is the width of that column alone.
+
+If a source file turns up, replace the mask geometry in `assets/mark-ink.svg` and
+regenerate — every other file is that same geometry with a different fill.
