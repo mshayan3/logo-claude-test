@@ -1,11 +1,14 @@
 # The Marauders
 
-A marque: a bounded badge holding an M monogram. Automotive-emblem language —
-heavy outline, an air gap, the letterform inside.
+A marque: a bounded badge with a fluted core, cut by a chevron. Automotive-
+emblem language — a heavy outline ring, then a carved mass filling the aperture.
+
+Not a letterform. The interior is built the way the reference is: vertical
+flutes separated by thin channels, clipped by the aperture rather than floating
+inside it, with one diagonal cut across the whole thing.
 
 - `assets/marque-arch.svg` — primary. Domed top, straight flanks, chamfered base.
-- `assets/marque-circle.svg` — alternate container, same monogram.
-- `assets/monogram-m.svg` — the M alone, for very small sizes and debossing.
+- `assets/marque-circle.svg` — alternate container, same core.
 - `*-reversed.svg` — knockout for dark grounds.
 
 ## Palette
@@ -25,10 +28,15 @@ descriptor, split by a hairline rule. Marque typography: wide, quiet, unhurried.
 
 ## Construction
 
-Drawn on a 200-unit grid. Ring 15 units. The monogram is set at 0.8 scale inside
-the badge, leaving roughly one ring-width of air on the flanks. The M's outer top
-corners are chamfered at 8 units to rhyme with the badge's chamfered base — the
-container and its contents share one geometry.
+Drawn on a 200-unit grid. Ring 15 units, then 11 units of air, then the core.
+
+The core is the aperture shape inset by 11 and cut by five channels 6 units
+wide: four vertical, splitting it into five flutes with a wider keystone flute
+at centre, and one chevron band descending 32 units to a point on the axis.
+
+Because the flutes are clipped by the aperture rather than drawn to fit it, the
+mark reads as carved out of the badge instead of placed inside it. That is the
+whole difference.
 
 ## Open
 
