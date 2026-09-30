@@ -31,13 +31,15 @@ One superfamily, three voices. Free, open licence, on Google Fonts.
 | Text | Saira 400 | 1.6 line-height. Contracts, proposals, site, email. |
 | Data | Saira 500 | Stats, tables, match figures. |
 
-Saira ships Condensed, Semi-Condensed and Normal at weights 100–900, upright
-and italic. One family covers the marque lockup, the athletic headline voice and
-clean body text without a second licence or a fallback.
+**Confirmed.** Saira ships Condensed, Semi-Condensed and Normal at weights
+100–900, upright and italic. One family covers the marque lockup, the athletic
+headline voice and clean body text without a second licence or a fallback.
 
 Its squarish skeleton and flat terminals rhyme with the mark's cut planes.
 
-### Considered and passed over
+    <link href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600;700&family=Saira+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+
+### Considered and passed over (for the record)
 
 - **Archivo** — neutral grotesque, reads firm rather than gaming, sets long text
   better than anything else tested. Weaker formal rhyme with the mark. The safe
@@ -60,4 +62,9 @@ below it, tracked 0.4em.
 
 ## Files
 
-Logo artwork is held by the client. This repo carries the spec only.
+`assets/mark-ink.png`, `mark-bone.png`, `mark-oxblood.png` — 766 x 1004, the
+supplied artwork cut from its background and recoloured, alpha preserved on the
+antialiased edges. Drop them on any approved ground.
+
+Master artwork is held by the client. These are working exports; if a vector
+master exists, use it for anything printed, cut or embroidered.
